@@ -1,0 +1,23 @@
+body {
+background-color: 66ccff;
+}
+
+#title {
+text-align: center;
+color: #666; 
+}
+
+#choice {
+text-align: center;
+color: pink;
+}
+
+
+#options {
+background-color: blue;
+color: red;
+text-align: left;
+float: left;
+hidth: 300;
+width: 300;
+}
